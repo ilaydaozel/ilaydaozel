@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilaydaozel
 - 👩‍🎓  I am a senior in Izmir Institute of Technology, Computer Engineering.
-- 🌱 I’m currently learning Node.js and React.
+- 🌱 I’m currently learning Next.js.
 - 📫 Linkedin https://www.linkedin.com/in/ilaydaozel/ 
 - 📫 ilaydaoozel@gmail.com.
 
