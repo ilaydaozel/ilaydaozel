@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilaydaozel
-- 👩‍🎓 I just graduated from Izmir Institute of Technology, Computer Engineering
+- 👩‍🎓 I graduated from Izmir Institute of Technology, Computer Engineering
 - 📫 Linkedin https://www.linkedin.com/in/ilaydaozel/ 
 - 📧 Feel free to reach out! ilaydaoozel@gmail.com
 - 🌐 https://ilayda-ozel.vercel.app/
