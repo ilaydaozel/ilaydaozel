@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ilaydaozel
+- 👩‍🎓 Currently I am pursuing my master´s in LMU, Munich.
 - 👩‍🎓 I graduated from Izmir Institute of Technology, Computer Engineering
 - 📫 Linkedin https://www.linkedin.com/in/ilaydaozel/ 
 - 📧 Feel free to reach out! ilaydaoozel@gmail.com
